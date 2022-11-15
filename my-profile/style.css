@@ -1,0 +1,89 @@
+/*Colors anf fonts */
+body{
+                background-color: #0B0205;
+                color: blue;
+                font-family: courier;
+ 
+}
+ 
+h1 {
+                font-weight: 160px;
+                font-size: 67px;
+                color: blue;
+                font-family: 'Lora', serif;
+}
+ 
+h2 {
+                color: blue ;
+                font-family: Play;
+ 
+ 
+}
+ 
+ 
+a {
+                text-decoration: none;
+                color: #716da6;
+                font-weight: bold;
+                font-family: Cormorant;
+}
+ 
+a:hover {
+                color: #e4d6f8;
+}
+ 
+div  {
+                background: ;
+ 
+ 
+}
+ 
+.contaoiner {
+                width: 700px;
+                margin: 40px auto;
+}
+ 
+.card-white {
+                background-color: white;
+                padding: 40px;
+                box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+                border-radius: 4px;
+                margin:  20px 0px;
+                text-align: center;
+}
+ 
+.img-circle {
+                border-radius: 50%;
+}
+ 
+.btn-blue {
+                background-color: #796EA8;
+                color: #e4d6f8;
+                padding: 15px 20px;
+                border-radius: 4px;
+}
+ 
+.btn-blue:hover {
+                background-color: #778FD2;
+                color:  white;
+}
+ 
+.list-inline {
+                list-style: none ;
+                padding-left: 0px;
+ 
+}
+ 
+.list-inline l {
+                display: inline;
+                padding: 9px;
+                font-size: 25px;
+}
+.list-inline i:hover {
+                font-size: 45px;
+                color: white;
+}
+ 
+#introduction p {
+                margin-bottom: 50px;
+}
